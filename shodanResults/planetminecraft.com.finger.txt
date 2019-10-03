@@ -1,0 +1,9 @@
+miss 2606:4700:10::6814:f709 https://planetminecraft.com 0 percent in 0 bytes
+match 104.20.246.9 https://planetminecraft.com 100 percent in 500 bytes
+match 104.20.247.9 https://planetminecraft.com 100 percent in 500 bytes
+match 104.20.246.9 https://planetminecraft.com 100 percent in 500 bytes
+match 104.20.247.9 https://planetminecraft.com 100 percent in 500 bytes
+match 104.20.246.9 https://planetminecraft.com 100 percent in 500 bytes
+match 104.20.246.9 https://planetminecraft.com 100 percent in 500 bytes
+match 104.20.247.9 https://planetminecraft.com 100 percent in 500 bytes
+miss 50.28.37.175 https://planetminecraft.com 0 percent in 0 bytes

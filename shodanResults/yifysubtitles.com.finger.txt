@@ -1,0 +1,12 @@
+miss 2400:cb00:2048:1::6818:867 https://yifysubtitles.com 0 percent in 0 bytes
+miss 2400:cb00:2048:1::6818:767 https://yifysubtitles.com 0 percent in 0 bytes
+miss 2400:cb00:2048:1::6818:867 https://yifysubtitles.com 0 percent in 0 bytes
+miss 2400:cb00:2048:1::6818:867 https://yifysubtitles.com 0 percent in 0 bytes
+match 104.24.7.103 https://yifysubtitles.com 100 percent in 500 bytes
+match 104.24.8.103 https://yifysubtitles.com 100 percent in 500 bytes
+match 104.24.8.103 https://yifysubtitles.com 100 percent in 500 bytes
+match 104.24.7.103 https://yifysubtitles.com 100 percent in 500 bytes
+match 104.24.8.103 https://yifysubtitles.com 100 percent in 500 bytes
+match 104.24.8.103 https://yifysubtitles.com 100 percent in 500 bytes
+match 104.24.7.103 https://yifysubtitles.com 100 percent in 500 bytes
+match 104.24.7.103 https://yifysubtitles.com 100 percent in 500 bytes

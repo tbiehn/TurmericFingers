@@ -1,0 +1,3 @@
+match 104.18.25.174 https://codecanyon.net 100 percent in 500 bytes
+miss 52.86.14.192 https://codecanyon.net -34 percent in 500 bytes
+miss 35.171.220.163 https://codecanyon.net 0 percent in 0 bytes

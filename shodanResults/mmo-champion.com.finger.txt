@@ -1,0 +1,9 @@
+miss 18.224.87.19 https://mmo-champion.com -61 percent in 72 bytes
+miss 52.14.84.220 https://mmo-champion.com -47 percent in 500 bytes
+match 104.26.3.92 https://mmo-champion.com 100 percent in 500 bytes
+miss 18.218.197.149 https://mmo-champion.com 5 percent in 500 bytes
+miss 3.130.91.245 https://mmo-champion.com -38 percent in 500 bytes
+miss 3.13.221.47 https://mmo-champion.com 5 percent in 500 bytes
+match 18.223.76.7 https://mmo-champion.com 90 percent in 500 bytes
+miss 159.180.95.0 https://mmo-champion.com 0 percent in 0 bytes
+miss 3.13.244.160 https://mmo-champion.com 0 percent in 0 bytes

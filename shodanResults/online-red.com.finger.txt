@@ -1,0 +1,7 @@
+miss 2400:cb00:2048:1::6814:d82a https://online-red.com 0 percent in 0 bytes
+match 104.20.216.42 https://online-red.com 100 percent in 500 bytes
+match 104.20.216.42 https://online-red.com 100 percent in 500 bytes
+match 104.20.217.42 https://online-red.com 100 percent in 500 bytes
+match 104.20.217.42 https://online-red.com 100 percent in 500 bytes
+match 104.20.216.42 https://online-red.com 100 percent in 500 bytes
+match 104.20.217.42 https://online-red.com 100 percent in 500 bytes

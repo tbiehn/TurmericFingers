@@ -1,0 +1,8 @@
+miss 200.6.220.90 https://emisorasunidas.com 0 percent in 0 bytes
+match 136.243.135.163 https://emisorasunidas.com 100 percent in 500 bytes
+match 138.201.202.98 https://emisorasunidas.com 100 percent in 500 bytes
+match 148.251.134.57 https://emisorasunidas.com 100 percent in 500 bytes
+match 104.26.8.52 https://emisorasunidas.com 100 percent in 500 bytes
+match 138.201.202.87 https://emisorasunidas.com 100 percent in 500 bytes
+miss 88.99.63.148 https://emisorasunidas.com -7 percent in 500 bytes
+miss 192.240.113.122 https://emisorasunidas.com 0 percent in 0 bytes

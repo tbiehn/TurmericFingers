@@ -1,0 +1,12 @@
+miss 2606:4700:20::6819:a209 https://faselhd.co 0 percent in 0 bytes
+miss 2606:4700:20::6819:a309 https://faselhd.co 0 percent in 0 bytes
+miss 2606:4700:20::6819:a209 https://faselhd.co 0 percent in 0 bytes
+miss 2606:4700:20::6819:a309 https://faselhd.co 0 percent in 0 bytes
+miss 2606:4700:20::6819:a309 https://faselhd.co 0 percent in 0 bytes
+miss 2606:4700:20::6819:a209 https://faselhd.co 0 percent in 0 bytes
+match 104.25.162.9 https://faselhd.co 100 percent in 500 bytes
+match 104.25.162.9 https://faselhd.co 100 percent in 500 bytes
+match 104.25.163.9 https://faselhd.co 100 percent in 500 bytes
+match 104.25.162.9 https://faselhd.co 100 percent in 500 bytes
+match 104.25.163.9 https://faselhd.co 100 percent in 500 bytes
+match 104.25.163.9 https://faselhd.co 100 percent in 500 bytes

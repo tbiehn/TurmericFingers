@@ -1,0 +1,8 @@
+match 104.18.75.2 https://lottoland.com 100 percent in 500 bytes
+match 104.18.75.2 https://lottoland.com 100 percent in 500 bytes
+match 104.18.74.2 https://lottoland.com 100 percent in 500 bytes
+match 104.18.74.2 https://lottoland.com 100 percent in 500 bytes
+match 104.18.74.2 https://lottoland.com 100 percent in 500 bytes
+match 104.18.75.2 https://lottoland.com 100 percent in 500 bytes
+match 104.18.75.2 https://lottoland.com 100 percent in 500 bytes
+match 104.18.74.2 https://lottoland.com 100 percent in 500 bytes

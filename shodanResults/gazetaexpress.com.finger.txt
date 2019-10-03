@@ -1,0 +1,3 @@
+miss 51.77.249.65 https://gazetaexpress.com -39 percent in 500 bytes
+match 178.33.89.99 https://gazetaexpress.com 76 percent in 500 bytes
+miss 51.89.112.146 https://gazetaexpress.com 0 percent in 0 bytes

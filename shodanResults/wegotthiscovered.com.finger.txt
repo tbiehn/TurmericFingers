@@ -1,0 +1,16 @@
+miss 2606:4700:20::6819:5622 https://wegotthiscovered.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:5722 https://wegotthiscovered.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:5622 https://wegotthiscovered.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:5722 https://wegotthiscovered.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:5622 https://wegotthiscovered.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:5722 https://wegotthiscovered.com 0 percent in 0 bytes
+match 104.25.86.34 https://wegotthiscovered.com 100 percent in 500 bytes
+match 104.25.87.34 https://wegotthiscovered.com 100 percent in 500 bytes
+match 104.25.86.34 https://wegotthiscovered.com 100 percent in 500 bytes
+match 104.25.87.34 https://wegotthiscovered.com 100 percent in 500 bytes
+match 104.25.86.34 https://wegotthiscovered.com 100 percent in 500 bytes
+miss 74.205.50.173 https://wegotthiscovered.com 0 percent in 0 bytes
+miss 74.205.50.173 https://wegotthiscovered.com 0 percent in 0 bytes
+miss 74.205.50.173 https://wegotthiscovered.com 0 percent in 0 bytes
+miss 74.205.50.173 https://wegotthiscovered.com 0 percent in 0 bytes
+miss 74.205.50.173 https://wegotthiscovered.com 0 percent in 0 bytes

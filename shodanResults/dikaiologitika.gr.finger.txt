@@ -1,0 +1,14 @@
+miss 2606:4700:20::6819:2b05 https://dikaiologitika.gr 0 percent in 0 bytes
+miss 2606:4700:20::6819:2a05 https://dikaiologitika.gr 0 percent in 0 bytes
+miss 2606:4700:20::6819:2b05 https://dikaiologitika.gr 0 percent in 0 bytes
+miss 2606:4700:20::6819:2b05 https://dikaiologitika.gr 0 percent in 0 bytes
+miss 2606:4700:20::6819:2a05 https://dikaiologitika.gr 0 percent in 0 bytes
+miss 91.215.156.134 https://dikaiologitika.gr -38 percent in 500 bytes
+match 91.215.156.133 https://dikaiologitika.gr 100 percent in 500 bytes
+match 91.215.156.133 https://dikaiologitika.gr 100 percent in 500 bytes
+match 104.25.42.5 https://dikaiologitika.gr 100 percent in 500 bytes
+match 104.25.42.5 https://dikaiologitika.gr 100 percent in 500 bytes
+match 104.25.43.5 https://dikaiologitika.gr 100 percent in 500 bytes
+match 104.25.43.5 https://dikaiologitika.gr 100 percent in 500 bytes
+match 104.25.43.5 https://dikaiologitika.gr 100 percent in 500 bytes
+match 104.25.42.5 https://dikaiologitika.gr 100 percent in 500 bytes

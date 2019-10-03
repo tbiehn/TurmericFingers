@@ -1,0 +1,2 @@
+match 104.31.95.45 https://seriesfilmestorrent.com 100 percent in 500 bytes
+match 104.31.94.45 https://seriesfilmestorrent.com 100 percent in 500 bytes

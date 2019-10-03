@@ -1,0 +1,14 @@
+miss 2606:4700:31::681f:49c https://thethao247.vn 0 percent in 0 bytes
+miss 210.245.26.168 https://thethao247.vn -34 percent in 500 bytes
+miss 210.245.26.176 https://thethao247.vn -34 percent in 500 bytes
+miss 210.245.26.175 https://thethao247.vn -34 percent in 500 bytes
+match 104.31.4.156 https://thethao247.vn 100 percent in 500 bytes
+match 104.31.5.156 https://thethao247.vn 100 percent in 500 bytes
+match 42.112.24.65 https://thethao247.vn 100 percent in 500 bytes
+match 42.112.24.65 https://thethao247.vn 100 percent in 500 bytes
+match 42.112.24.66 https://thethao247.vn 100 percent in 500 bytes
+match 42.112.24.66 https://thethao247.vn 100 percent in 500 bytes
+match 42.112.24.63 https://thethao247.vn 100 percent in 500 bytes
+match 42.112.24.117 https://thethao247.vn 100 percent in 500 bytes
+match 42.112.24.119 https://thethao247.vn 100 percent in 500 bytes
+match 42.112.24.118 https://thethao247.vn 100 percent in 500 bytes

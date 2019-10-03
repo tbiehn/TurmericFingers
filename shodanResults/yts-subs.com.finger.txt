@@ -1,0 +1,1 @@
+match 158.69.113.54 https://yts-subs.com 100 percent in 500 bytes

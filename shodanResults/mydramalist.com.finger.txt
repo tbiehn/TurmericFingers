@@ -1,0 +1,3 @@
+miss 69.162.94.162 https://mydramalist.com -39 percent in 500 bytes
+match 45.76.166.35 https://mydramalist.com 100 percent in 500 bytes
+match 209.222.10.229 https://mydramalist.com 100 percent in 500 bytes

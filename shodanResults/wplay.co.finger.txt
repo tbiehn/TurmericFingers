@@ -1,0 +1,14 @@
+match 104.18.171.67 https://wplay.co 100 percent in 500 bytes
+match 104.18.171.67 https://wplay.co 100 percent in 500 bytes
+match 104.18.171.67 https://wplay.co 100 percent in 500 bytes
+match 104.18.170.67 https://wplay.co 100 percent in 500 bytes
+match 104.18.170.67 https://wplay.co 100 percent in 500 bytes
+match 104.18.170.67 https://wplay.co 100 percent in 500 bytes
+match 104.18.170.67 https://wplay.co 100 percent in 500 bytes
+miss 173.255.205.216 https://wplay.co -32 percent in 202 bytes
+miss 67.205.171.131 https://wplay.co -36 percent in 107 bytes
+match 104.18.171.67 https://wplay.co 100 percent in 500 bytes
+miss 159.203.64.21 https://wplay.co -16 percent in 500 bytes
+match 37.48.126.145 https://wplay.co 86 percent in 500 bytes
+miss 67.205.179.230 https://wplay.co -20 percent in 500 bytes
+miss 172.104.128.62 https://wplay.co -21 percent in 500 bytes

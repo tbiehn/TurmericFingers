@@ -1,0 +1,15 @@
+miss 2606:4700:20::6819:fa11 https://jagonews24.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:fa11 https://jagonews24.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:fa11 https://jagonews24.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:fb11 https://jagonews24.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:fb11 https://jagonews24.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:fa11 https://jagonews24.com 0 percent in 0 bytes
+miss 13.251.233.149 https://jagonews24.com -33 percent in 500 bytes
+match 104.25.250.17 https://jagonews24.com 100 percent in 500 bytes
+match 104.25.251.17 https://jagonews24.com 100 percent in 500 bytes
+match 104.25.250.17 https://jagonews24.com 100 percent in 500 bytes
+match 104.25.251.17 https://jagonews24.com 100 percent in 500 bytes
+match 104.25.250.17 https://jagonews24.com 100 percent in 500 bytes
+match 104.25.250.17 https://jagonews24.com 100 percent in 500 bytes
+match 104.25.251.17 https://jagonews24.com 100 percent in 500 bytes
+match 104.25.251.17 https://jagonews24.com 100 percent in 500 bytes

@@ -1,0 +1,2 @@
+match 104.31.1.183 https://yalla-shoot.com 100 percent in 453 bytes
+match 185.165.243.247 https://yalla-shoot.com 59 percent in 453 bytes

@@ -1,0 +1,14 @@
+miss 2606:4700:20::6819:51d https://pelisplay.tv 0 percent in 0 bytes
+miss 2606:4700:20::6819:51d https://pelisplay.tv 0 percent in 0 bytes
+miss 2606:4700:20::6819:41d https://pelisplay.tv 0 percent in 0 bytes
+miss 2606:4700:20::6819:41d https://pelisplay.tv 0 percent in 0 bytes
+miss 94.130.11.162 https://pelisplay.tv -28 percent in 500 bytes
+match 104.25.5.29 https://pelisplay.tv 100 percent in 500 bytes
+match 104.25.5.29 https://pelisplay.tv 100 percent in 500 bytes
+match 104.25.5.29 https://pelisplay.tv 100 percent in 500 bytes
+match 104.25.5.29 https://pelisplay.tv 100 percent in 500 bytes
+match 104.25.4.29 https://pelisplay.tv 100 percent in 500 bytes
+match 104.25.4.29 https://pelisplay.tv 100 percent in 500 bytes
+match 104.25.4.29 https://pelisplay.tv 100 percent in 500 bytes
+match 104.25.4.29 https://pelisplay.tv 100 percent in 500 bytes
+match 94.242.62.235 https://pelisplay.tv 90 percent in 500 bytes

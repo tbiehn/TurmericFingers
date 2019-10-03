@@ -1,0 +1,12 @@
+miss 2400:cb00:2048:1::6814:388b https://hltv.org 0 percent in 0 bytes
+miss 148.251.125.51 https://hltv.org 0 percent in 0 bytes
+miss 188.40.59.77 https://hltv.org 0 percent in 0 bytes
+miss 213.239.193.16 https://hltv.org 0 percent in 0 bytes
+match 104.20.57.139 https://hltv.org 100 percent in 500 bytes
+match 104.20.57.139 https://hltv.org 100 percent in 500 bytes
+match 104.20.56.139 https://hltv.org 100 percent in 500 bytes
+match 104.20.57.139 https://hltv.org 100 percent in 500 bytes
+match 104.20.56.139 https://hltv.org 100 percent in 500 bytes
+match 104.20.56.139 https://hltv.org 100 percent in 500 bytes
+match 104.20.56.139 https://hltv.org 100 percent in 500 bytes
+match 104.20.57.139 https://hltv.org 100 percent in 500 bytes

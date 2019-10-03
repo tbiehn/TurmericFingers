@@ -1,0 +1,1 @@
+match 104.27.144.190 https://1377x.to 100 percent in 500 bytes

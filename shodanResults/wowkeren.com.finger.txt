@@ -1,0 +1,16 @@
+miss 2606:4700:20::6819:5c73 https://wowkeren.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:5c73 https://wowkeren.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:5c73 https://wowkeren.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:5c73 https://wowkeren.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:5b73 https://wowkeren.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:5b73 https://wowkeren.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:5b73 https://wowkeren.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:5b73 https://wowkeren.com 0 percent in 0 bytes
+match 104.25.92.115 https://wowkeren.com 100 percent in 500 bytes
+match 104.25.92.115 https://wowkeren.com 100 percent in 500 bytes
+match 104.25.91.115 https://wowkeren.com 100 percent in 500 bytes
+match 104.25.92.115 https://wowkeren.com 100 percent in 500 bytes
+match 104.25.91.115 https://wowkeren.com 100 percent in 500 bytes
+match 104.25.92.115 https://wowkeren.com 100 percent in 500 bytes
+match 104.25.91.115 https://wowkeren.com 100 percent in 500 bytes
+match 104.25.91.115 https://wowkeren.com 100 percent in 500 bytes

@@ -1,0 +1,15 @@
+miss 2400:cb00:2048:1::6814:c63d https://gdz.ru 0 percent in 0 bytes
+miss 185.212.129.132 https://gdz.ru 0 percent in 0 bytes
+match 185.191.197.26 https://gdz.ru 100 percent in 500 bytes
+match 104.20.198.61 https://gdz.ru 100 percent in 500 bytes
+match 104.20.199.61 https://gdz.ru 100 percent in 500 bytes
+match 104.20.199.61 https://gdz.ru 100 percent in 500 bytes
+match 104.20.198.61 https://gdz.ru 100 percent in 500 bytes
+match 104.20.198.61 https://gdz.ru 100 percent in 500 bytes
+match 104.20.198.61 https://gdz.ru 100 percent in 500 bytes
+match 104.20.199.61 https://gdz.ru 100 percent in 500 bytes
+match 104.20.199.61 https://gdz.ru 100 percent in 500 bytes
+miss 95.216.126.168 https://gdz.ru -21 percent in 500 bytes
+miss 46.4.95.166 https://gdz.ru 20 percent in 500 bytes
+miss 46.4.95.187 https://gdz.ru 20 percent in 500 bytes
+miss 46.4.95.176 https://gdz.ru 20 percent in 500 bytes

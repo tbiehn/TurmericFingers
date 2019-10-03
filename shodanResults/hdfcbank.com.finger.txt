@@ -1,0 +1,9 @@
+miss 2606:4700::6812:5f48 https://hdfcbank.com 0 percent in 0 bytes
+miss 2606:4700::6812:5e48 https://hdfcbank.com 0 percent in 0 bytes
+match 104.18.95.72 https://hdfcbank.com 100 percent in 500 bytes
+match 104.18.95.72 https://hdfcbank.com 100 percent in 500 bytes
+match 104.18.94.72 https://hdfcbank.com 100 percent in 500 bytes
+match 104.18.94.72 https://hdfcbank.com 100 percent in 500 bytes
+match 104.18.94.72 https://hdfcbank.com 100 percent in 500 bytes
+match 104.18.94.72 https://hdfcbank.com 100 percent in 500 bytes
+miss 175.100.163.179 https://hdfcbank.com -19 percent in 500 bytes

@@ -1,0 +1,12 @@
+miss 2606:4700:20::6819:f369 https://damvler.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:f369 https://damvler.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:f469 https://damvler.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:f369 https://damvler.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:f369 https://damvler.com 0 percent in 0 bytes
+match 104.25.243.105 https://damvler.com 100 percent in 500 bytes
+match 104.25.243.105 https://damvler.com 100 percent in 500 bytes
+match 104.25.243.105 https://damvler.com 100 percent in 500 bytes
+match 104.25.244.105 https://damvler.com 100 percent in 500 bytes
+match 104.25.244.105 https://damvler.com 100 percent in 500 bytes
+match 104.25.244.105 https://damvler.com 100 percent in 500 bytes
+match 104.25.244.105 https://damvler.com 100 percent in 500 bytes

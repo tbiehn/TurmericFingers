@@ -1,0 +1,13 @@
+miss 2400:cb00:2048:1::6814:861e https://studentdoctor.net 0 percent in 0 bytes
+miss 2400:cb00:2048:1::6814:861e https://studentdoctor.net 0 percent in 0 bytes
+miss 2606:4700:10::6814:861e https://studentdoctor.net 0 percent in 0 bytes
+miss 2606:4700:10::6814:871e https://studentdoctor.net 0 percent in 0 bytes
+miss 2400:cb00:2048:1::6814:871e https://studentdoctor.net 0 percent in 0 bytes
+miss 104.194.11.170 https://studentdoctor.net -37 percent in 500 bytes
+match 104.20.134.30 https://studentdoctor.net 91 percent in 500 bytes
+match 104.20.134.30 https://studentdoctor.net 91 percent in 500 bytes
+match 104.20.134.30 https://studentdoctor.net 92 percent in 500 bytes
+match 104.20.135.30 https://studentdoctor.net 91 percent in 500 bytes
+match 104.20.135.30 https://studentdoctor.net 92 percent in 500 bytes
+match 104.20.135.30 https://studentdoctor.net 91 percent in 500 bytes
+match 104.20.134.30 https://studentdoctor.net 91 percent in 500 bytes

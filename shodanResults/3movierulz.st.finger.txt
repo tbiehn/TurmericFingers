@@ -1,0 +1,6 @@
+miss 2606:4700:e6::ac40:c51f https://3movierulz.st 0 percent in 0 bytes
+miss 2606:4700:e6::ac40:c41f https://3movierulz.st 0 percent in 0 bytes
+match 172.64.196.31 https://3movierulz.st 100 percent in 500 bytes
+match 172.64.162.11 https://3movierulz.st 100 percent in 500 bytes
+match 172.64.197.31 https://3movierulz.st 100 percent in 500 bytes
+match 172.64.109.16 https://3movierulz.st 100 percent in 500 bytes

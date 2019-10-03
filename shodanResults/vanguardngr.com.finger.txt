@@ -1,0 +1,1 @@
+match 34.200.120.95 https://vanguardngr.com 100 percent in 500 bytes

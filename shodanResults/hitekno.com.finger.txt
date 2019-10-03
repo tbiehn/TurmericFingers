@@ -1,0 +1,3 @@
+miss 2606:4700:30::681b:aee9 https://hitekno.com 0 percent in 0 bytes
+match 104.31.73.149 https://hitekno.com 100 percent in 500 bytes
+match 128.199.212.156 https://hitekno.com 100 percent in 500 bytes

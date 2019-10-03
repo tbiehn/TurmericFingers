@@ -1,0 +1,16 @@
+miss 2606:4700:20::6819:7520 https://faranesh.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:7520 https://faranesh.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:7520 https://faranesh.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:7420 https://faranesh.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:7520 https://faranesh.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:7420 https://faranesh.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:7420 https://faranesh.com 0 percent in 0 bytes
+match 188.0.241.106 https://faranesh.com 99 percent in 500 bytes
+match 188.0.241.105 https://faranesh.com 99 percent in 500 bytes
+match 104.25.116.32 https://faranesh.com 100 percent in 500 bytes
+match 104.25.117.32 https://faranesh.com 100 percent in 500 bytes
+match 104.25.117.32 https://faranesh.com 100 percent in 500 bytes
+match 104.25.117.32 https://faranesh.com 100 percent in 500 bytes
+match 104.25.116.32 https://faranesh.com 100 percent in 500 bytes
+miss 79.175.191.182 https://faranesh.com -32 percent in 500 bytes
+match 104.25.116.32 https://faranesh.com 100 percent in 500 bytes

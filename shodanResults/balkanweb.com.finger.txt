@@ -1,0 +1,2 @@
+miss 37.59.217.5 https://balkanweb.com 0 percent in 0 bytes
+miss 54.38.97.199 https://balkanweb.com -34 percent in 500 bytes

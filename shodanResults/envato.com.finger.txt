@@ -1,0 +1,14 @@
+match 104.18.253.82 https://envato.com 100 percent in 500 bytes
+match 104.18.253.82 https://envato.com 100 percent in 500 bytes
+match 104.18.252.82 https://envato.com 100 percent in 500 bytes
+match 104.18.252.82 https://envato.com 100 percent in 500 bytes
+match 104.18.253.82 https://envato.com 100 percent in 500 bytes
+match 104.18.252.82 https://envato.com 100 percent in 500 bytes
+miss 50.18.106.189 https://envato.com -38 percent in 500 bytes
+match 104.18.252.82 https://envato.com 100 percent in 500 bytes
+miss 184.72.51.222 https://envato.com -37 percent in 500 bytes
+match 104.18.253.82 https://envato.com 100 percent in 500 bytes
+miss 177.244.39.138 https://envato.com -23 percent in 500 bytes
+miss 45.232.253.10 https://envato.com -23 percent in 500 bytes
+miss 54.253.117.147 https://envato.com 0 percent in 0 bytes
+miss 54.252.126.24 https://envato.com 0 percent in 0 bytes

@@ -1,0 +1,16 @@
+miss 2606:4700:20::6819:266c https://hugedomains.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:266c https://hugedomains.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:266c https://hugedomains.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:266c https://hugedomains.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:256c https://hugedomains.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:256c https://hugedomains.com 0 percent in 0 bytes
+match 216.150.210.200 https://hugedomains.com 100 percent in 500 bytes
+match 216.38.197.185 https://hugedomains.com 100 percent in 500 bytes
+match 216.38.197.179 https://hugedomains.com 100 percent in 500 bytes
+match 104.25.38.108 https://hugedomains.com 100 percent in 500 bytes
+match 104.25.37.108 https://hugedomains.com 100 percent in 500 bytes
+match 104.25.38.108 https://hugedomains.com 100 percent in 500 bytes
+match 104.25.38.108 https://hugedomains.com 100 percent in 500 bytes
+match 104.25.37.108 https://hugedomains.com 100 percent in 500 bytes
+match 104.25.37.108 https://hugedomains.com 100 percent in 500 bytes
+match 104.25.38.108 https://hugedomains.com 100 percent in 500 bytes

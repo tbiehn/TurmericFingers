@@ -1,0 +1,2 @@
+match 172.64.164.31 https://dongtw.com 100 percent in 500 bytes
+match 172.64.165.31 https://dongtw.com 100 percent in 500 bytes

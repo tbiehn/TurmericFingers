@@ -1,0 +1,10 @@
+miss 2606:4700:20::6819:a40b https://dailypost.ng 0 percent in 0 bytes
+miss 2606:4700:20::6819:a40b https://dailypost.ng 0 percent in 0 bytes
+miss 2606:4700:20::6819:a50b https://dailypost.ng 0 percent in 0 bytes
+miss 2606:4700:20::6819:a40b https://dailypost.ng 0 percent in 0 bytes
+miss 2606:4700:20::6819:a50b https://dailypost.ng 0 percent in 0 bytes
+match 104.25.165.11 https://dailypost.ng 100 percent in 500 bytes
+match 104.25.164.11 https://dailypost.ng 100 percent in 500 bytes
+match 104.25.165.11 https://dailypost.ng 100 percent in 500 bytes
+match 104.25.164.11 https://dailypost.ng 100 percent in 500 bytes
+match 199.26.86.30 https://dailypost.ng 71 percent in 500 bytes

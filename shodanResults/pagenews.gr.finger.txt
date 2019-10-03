@@ -1,0 +1,15 @@
+miss 2606:4700:20::6819:bb1d https://pagenews.gr 0 percent in 0 bytes
+miss 2606:4700:20::6819:bb1d https://pagenews.gr 0 percent in 0 bytes
+miss 2606:4700:20::6819:ba1d https://pagenews.gr 0 percent in 0 bytes
+miss 2606:4700:20::6819:bb1d https://pagenews.gr 0 percent in 0 bytes
+miss 2606:4700:20::6819:ba1d https://pagenews.gr 0 percent in 0 bytes
+miss 2606:4700:20::6819:ba1d https://pagenews.gr 0 percent in 0 bytes
+miss 2606:4700:20::6819:ba1d https://pagenews.gr 0 percent in 0 bytes
+match 104.25.187.29 https://pagenews.gr 100 percent in 500 bytes
+match 94.130.141.31 https://pagenews.gr 100 percent in 500 bytes
+match 104.25.186.29 https://pagenews.gr 100 percent in 500 bytes
+match 104.25.187.29 https://pagenews.gr 100 percent in 500 bytes
+match 104.25.187.29 https://pagenews.gr 100 percent in 500 bytes
+match 104.25.186.29 https://pagenews.gr 100 percent in 500 bytes
+match 104.25.187.29 https://pagenews.gr 100 percent in 500 bytes
+match 104.25.186.29 https://pagenews.gr 100 percent in 500 bytes

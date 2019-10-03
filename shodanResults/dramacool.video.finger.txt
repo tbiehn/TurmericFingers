@@ -1,0 +1,14 @@
+miss 2606:4700:20::6819:8b64 https://dramacool.video 0 percent in 0 bytes
+miss 2606:4700:20::6819:8c64 https://dramacool.video 0 percent in 0 bytes
+miss 2606:4700:20::6819:8b64 https://dramacool.video 0 percent in 0 bytes
+miss 2606:4700:20::6819:8b64 https://dramacool.video 0 percent in 0 bytes
+miss 2606:4700:20::6819:8c64 https://dramacool.video 0 percent in 0 bytes
+miss 2606:4700:20::6819:8b64 https://dramacool.video 0 percent in 0 bytes
+match 104.25.140.100 https://dramacool.video 100 percent in 500 bytes
+match 104.25.140.100 https://dramacool.video 100 percent in 500 bytes
+match 104.25.139.100 https://dramacool.video 100 percent in 500 bytes
+match 104.25.139.100 https://dramacool.video 100 percent in 500 bytes
+match 104.25.139.100 https://dramacool.video 100 percent in 500 bytes
+match 104.25.140.100 https://dramacool.video 100 percent in 500 bytes
+match 104.25.139.100 https://dramacool.video 100 percent in 500 bytes
+match 104.25.140.100 https://dramacool.video 100 percent in 500 bytes

@@ -1,0 +1,2 @@
+match 104.26.3.103 https://exe.io 100 percent in 500 bytes
+match 104.26.2.103 https://exe.io 100 percent in 500 bytes

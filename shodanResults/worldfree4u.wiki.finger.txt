@@ -1,0 +1,8 @@
+miss 2606:4700:20::6819:1965 https://worldfree4u.wiki 0 percent in 0 bytes
+miss 2606:4700:20::6819:1965 https://worldfree4u.wiki 0 percent in 0 bytes
+miss 2606:4700:20::6819:1a65 https://worldfree4u.wiki 0 percent in 0 bytes
+miss 2606:4700:20::6819:1a65 https://worldfree4u.wiki 0 percent in 0 bytes
+miss 2606:4700:20::6819:1a65 https://worldfree4u.wiki 0 percent in 0 bytes
+miss 2606:4700:20::6819:1965 https://worldfree4u.wiki 0 percent in 0 bytes
+match 178.32.191.160 https://worldfree4u.wiki 79 percent in 500 bytes
+match 104.25.25.101 https://worldfree4u.wiki 100 percent in 500 bytes

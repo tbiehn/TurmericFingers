@@ -1,0 +1,7 @@
+miss 2400:cb00:2048:1::6814:7356 https://qatarliving.com 0 percent in 0 bytes
+miss 2400:cb00:2048:1::6814:7256 https://qatarliving.com 0 percent in 0 bytes
+miss 2400:cb00:2048:1::6814:7256 https://qatarliving.com 0 percent in 0 bytes
+match 104.20.114.86 https://qatarliving.com 100 percent in 500 bytes
+match 104.20.114.86 https://qatarliving.com 100 percent in 500 bytes
+match 104.20.115.86 https://qatarliving.com 100 percent in 500 bytes
+match 104.20.115.86 https://qatarliving.com 100 percent in 500 bytes

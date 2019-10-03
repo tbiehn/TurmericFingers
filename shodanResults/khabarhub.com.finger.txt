@@ -1,0 +1,2 @@
+match 104.24.103.117 https://khabarhub.com 100 percent in 500 bytes
+match 148.72.210.141 https://khabarhub.com 78 percent in 500 bytes

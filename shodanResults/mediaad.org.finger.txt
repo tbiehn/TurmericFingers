@@ -1,0 +1,6 @@
+miss 116.203.183.132 https://mediaad.org -36 percent in 195 bytes
+miss 116.203.83.56 https://mediaad.org -9 percent in 500 bytes
+miss 116.203.87.22 https://mediaad.org -9 percent in 500 bytes
+miss 159.69.154.147 https://mediaad.org -35 percent in 157 bytes
+match 195.201.40.247 https://mediaad.org 100 percent in 500 bytes
+match 104.28.9.33 https://mediaad.org 100 percent in 500 bytes

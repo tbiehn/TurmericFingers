@@ -1,0 +1,13 @@
+miss 2606:4700:20::6819:4d09 https://light-dark.net 0 percent in 0 bytes
+miss 2606:4700:20::6819:4c09 https://light-dark.net 0 percent in 0 bytes
+miss 2606:4700:20::6819:4d09 https://light-dark.net 0 percent in 0 bytes
+miss 2606:4700:20::6819:4c09 https://light-dark.net 0 percent in 0 bytes
+miss 2606:4700:20::6819:4d09 https://light-dark.net 0 percent in 0 bytes
+match 104.25.76.9 https://light-dark.net 100 percent in 500 bytes
+match 104.25.77.9 https://light-dark.net 100 percent in 500 bytes
+match 104.25.77.9 https://light-dark.net 100 percent in 500 bytes
+match 104.25.76.9 https://light-dark.net 100 percent in 500 bytes
+match 104.25.76.9 https://light-dark.net 100 percent in 500 bytes
+match 104.25.77.9 https://light-dark.net 100 percent in 500 bytes
+match 104.25.77.9 https://light-dark.net 100 percent in 500 bytes
+match 104.25.76.9 https://light-dark.net 100 percent in 500 bytes

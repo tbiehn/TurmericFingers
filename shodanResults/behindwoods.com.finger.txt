@@ -1,0 +1,15 @@
+miss 2606:4700:20::6819:b22 https://behindwoods.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:a22 https://behindwoods.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:a22 https://behindwoods.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:a22 https://behindwoods.com 0 percent in 0 bytes
+miss 50.23.213.66 https://behindwoods.com 2 percent in 500 bytes
+miss 50.23.213.66 https://behindwoods.com 2 percent in 500 bytes
+match 104.25.10.34 https://behindwoods.com 100 percent in 500 bytes
+match 104.25.10.34 https://behindwoods.com 100 percent in 500 bytes
+match 104.25.10.34 https://behindwoods.com 100 percent in 500 bytes
+match 104.25.10.34 https://behindwoods.com 100 percent in 500 bytes
+match 104.25.11.34 https://behindwoods.com 100 percent in 500 bytes
+match 104.25.11.34 https://behindwoods.com 100 percent in 500 bytes
+match 104.25.11.34 https://behindwoods.com 100 percent in 500 bytes
+match 104.25.11.34 https://behindwoods.com 100 percent in 500 bytes
+miss 50.23.213.67 https://behindwoods.com 0 percent in 0 bytes

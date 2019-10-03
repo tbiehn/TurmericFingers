@@ -1,0 +1,15 @@
+miss 2400:cb00:2048:1::6814:c839 https://seriouseats.com 0 percent in 0 bytes
+miss 2606:4700:10::6814:c839 https://seriouseats.com 0 percent in 0 bytes
+miss 2606:4700:10::6814:c939 https://seriouseats.com 0 percent in 0 bytes
+miss 104.20.201.57 https://seriouseats.com -19 percent in 500 bytes
+miss 104.20.201.57 https://seriouseats.com -19 percent in 500 bytes
+miss 104.20.200.57 https://seriouseats.com -19 percent in 500 bytes
+miss 104.20.200.57 https://seriouseats.com -19 percent in 500 bytes
+miss 104.20.201.57 https://seriouseats.com -19 percent in 500 bytes
+miss 104.20.200.57 https://seriouseats.com -19 percent in 500 bytes
+miss 104.20.200.57 https://seriouseats.com -19 percent in 500 bytes
+miss 104.20.201.57 https://seriouseats.com -19 percent in 500 bytes
+match 34.229.27.212 https://seriouseats.com 97 percent in 500 bytes
+match 34.192.64.200 https://seriouseats.com 97 percent in 500 bytes
+match 18.232.223.167 https://seriouseats.com 100 percent in 500 bytes
+match 18.232.255.91 https://seriouseats.com 100 percent in 500 bytes

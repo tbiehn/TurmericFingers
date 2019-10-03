@@ -1,0 +1,6 @@
+miss 52.66.121.145 https://sarkariresults.info -77 percent in 18 bytes
+miss 52.66.33.121 https://sarkariresults.info -40 percent in 500 bytes
+miss 35.154.30.105 https://sarkariresults.info -27 percent in 500 bytes
+miss 13.234.224.70 https://sarkariresults.info -36 percent in 500 bytes
+miss 13.126.182.70 https://sarkariresults.info 0 percent in 0 bytes
+miss 13.126.121.89 https://sarkariresults.info 0 percent in 0 bytes

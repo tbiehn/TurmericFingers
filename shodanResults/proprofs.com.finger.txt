@@ -1,0 +1,17 @@
+miss 2606:4700:20::6819:d606 https://proprofs.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:d606 https://proprofs.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:d606 https://proprofs.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:d606 https://proprofs.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:d706 https://proprofs.com 0 percent in 0 bytes
+miss 169.53.54.94 https://proprofs.com 0 percent in 0 bytes
+match 104.25.214.6 https://proprofs.com 100 percent in 500 bytes
+match 104.25.215.6 https://proprofs.com 100 percent in 500 bytes
+match 104.25.214.6 https://proprofs.com 100 percent in 500 bytes
+match 104.25.215.6 https://proprofs.com 100 percent in 500 bytes
+match 104.25.214.6 https://proprofs.com 100 percent in 500 bytes
+match 104.25.215.6 https://proprofs.com 100 percent in 500 bytes
+match 104.25.215.6 https://proprofs.com 100 percent in 500 bytes
+match 104.25.214.6 https://proprofs.com 100 percent in 500 bytes
+miss 169.53.54.86 https://proprofs.com 0 percent in 0 bytes
+miss 169.53.54.85 https://proprofs.com 0 percent in 0 bytes
+miss 169.53.54.84 https://proprofs.com 0 percent in 0 bytes

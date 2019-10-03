@@ -1,0 +1,4 @@
+match 104.26.15.205 https://minecraftforum.net 100 percent in 500 bytes
+match 104.26.14.205 https://minecraftforum.net 100 percent in 500 bytes
+match 3.13.130.198 https://minecraftforum.net 94 percent in 500 bytes
+match 3.130.210.18 https://minecraftforum.net 94 percent in 500 bytes

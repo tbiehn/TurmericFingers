@@ -1,0 +1,14 @@
+miss 2606:4700:20::6819:b71f https://celebrityinsider.org 0 percent in 0 bytes
+miss 2606:4700:20::6819:b61f https://celebrityinsider.org 0 percent in 0 bytes
+miss 2606:4700:20::6819:b71f https://celebrityinsider.org 0 percent in 0 bytes
+miss 2606:4700:20::6819:b61f https://celebrityinsider.org 0 percent in 0 bytes
+miss 2606:4700:20::6819:b71f https://celebrityinsider.org 0 percent in 0 bytes
+miss 2606:4700:20::6819:b61f https://celebrityinsider.org 0 percent in 0 bytes
+match 104.25.183.31 https://celebrityinsider.org 100 percent in 500 bytes
+match 162.220.166.135 https://celebrityinsider.org 76 percent in 500 bytes
+match 104.25.182.31 https://celebrityinsider.org 100 percent in 500 bytes
+match 104.25.183.31 https://celebrityinsider.org 100 percent in 500 bytes
+match 104.25.183.31 https://celebrityinsider.org 100 percent in 500 bytes
+match 104.25.183.31 https://celebrityinsider.org 100 percent in 500 bytes
+match 104.25.182.31 https://celebrityinsider.org 100 percent in 500 bytes
+match 104.25.182.31 https://celebrityinsider.org 100 percent in 500 bytes

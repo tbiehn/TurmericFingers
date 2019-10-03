@@ -1,0 +1,14 @@
+miss 2606:4700:20::6819:af64 https://chilango.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:af64 https://chilango.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:b064 https://chilango.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:af64 https://chilango.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:b064 https://chilango.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:af64 https://chilango.com 0 percent in 0 bytes
+match 104.25.175.100 https://chilango.com 100 percent in 500 bytes
+match 104.25.176.100 https://chilango.com 100 percent in 500 bytes
+match 104.25.175.100 https://chilango.com 100 percent in 500 bytes
+match 104.25.176.100 https://chilango.com 100 percent in 500 bytes
+match 104.25.176.100 https://chilango.com 100 percent in 500 bytes
+miss 52.200.236.125 https://chilango.com 0 percent in 0 bytes
+match 104.25.176.100 https://chilango.com 100 percent in 500 bytes
+miss 3.210.225.41 https://chilango.com 0 percent in 0 bytes

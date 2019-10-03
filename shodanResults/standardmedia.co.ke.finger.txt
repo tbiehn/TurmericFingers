@@ -1,0 +1,17 @@
+miss 2606:4700:10::6814:cc0b https://standardmedia.co.ke 0 percent in 0 bytes
+miss 2400:cb00:2048:1::6814:cd0b https://standardmedia.co.ke 0 percent in 0 bytes
+miss 2400:cb00:2048:1::6814:cc0b https://standardmedia.co.ke 0 percent in 0 bytes
+miss 2400:cb00:2048:1::6814:cc0b https://standardmedia.co.ke 0 percent in 0 bytes
+miss 146.177.32.224 https://standardmedia.co.ke 40 percent in 500 bytes
+miss 146.177.33.53 https://standardmedia.co.ke -6 percent in 500 bytes
+match 104.20.205.11 https://standardmedia.co.ke 100 percent in 500 bytes
+match 104.20.205.11 https://standardmedia.co.ke 100 percent in 500 bytes
+match 104.20.205.11 https://standardmedia.co.ke 100 percent in 500 bytes
+match 104.20.204.11 https://standardmedia.co.ke 100 percent in 500 bytes
+match 104.20.204.11 https://standardmedia.co.ke 100 percent in 500 bytes
+match 104.20.205.11 https://standardmedia.co.ke 100 percent in 500 bytes
+match 104.20.204.11 https://standardmedia.co.ke 100 percent in 500 bytes
+match 104.20.204.11 https://standardmedia.co.ke 100 percent in 500 bytes
+miss 41.203.223.86 https://standardmedia.co.ke -40 percent in 315 bytes
+miss 41.203.223.86 https://standardmedia.co.ke -40 percent in 315 bytes
+miss 41.203.223.86 https://standardmedia.co.ke -40 percent in 315 bytes

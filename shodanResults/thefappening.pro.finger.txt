@@ -1,0 +1,15 @@
+miss 2606:4700:20::6819:671a https://thefappening.pro 0 percent in 0 bytes
+miss 2606:4700:20::6819:671a https://thefappening.pro 0 percent in 0 bytes
+miss 2606:4700:20::6819:671a https://thefappening.pro 0 percent in 0 bytes
+miss 2606:4700:20::6819:661a https://thefappening.pro 0 percent in 0 bytes
+miss 2606:4700:20::6819:661a https://thefappening.pro 0 percent in 0 bytes
+miss 2606:4700:20::6819:671a https://thefappening.pro 0 percent in 0 bytes
+miss 2606:4700:20::6819:661a https://thefappening.pro 0 percent in 0 bytes
+miss 2606:4700:20::6819:661a https://thefappening.pro 0 percent in 0 bytes
+match 104.25.103.26 https://thefappening.pro 100 percent in 500 bytes
+match 104.25.102.26 https://thefappening.pro 100 percent in 500 bytes
+match 104.25.103.26 https://thefappening.pro 100 percent in 500 bytes
+match 104.25.103.26 https://thefappening.pro 100 percent in 500 bytes
+match 104.25.103.26 https://thefappening.pro 100 percent in 500 bytes
+match 104.25.102.26 https://thefappening.pro 100 percent in 500 bytes
+match 104.25.102.26 https://thefappening.pro 100 percent in 500 bytes

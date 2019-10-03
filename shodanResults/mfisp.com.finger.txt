@@ -1,0 +1,16 @@
+miss 2606:4700:22::a29f:ebe2 https://mfisp.com 0 percent in 0 bytes
+miss 103.97.229.225 https://mfisp.com -11 percent in 315 bytes
+miss 103.99.62.40 https://mfisp.com -11 percent in 315 bytes
+miss 103.99.62.40 https://mfisp.com -11 percent in 315 bytes
+miss 103.99.62.40 https://mfisp.com -11 percent in 315 bytes
+miss 103.99.62.40 https://mfisp.com -11 percent in 315 bytes
+miss 103.97.229.225 https://mfisp.com -11 percent in 315 bytes
+match 162.159.235.226 https://mfisp.com 100 percent in 500 bytes
+match 162.159.234.226 https://mfisp.com 100 percent in 500 bytes
+match 162.159.235.226 https://mfisp.com 100 percent in 500 bytes
+match 162.159.235.226 https://mfisp.com 100 percent in 500 bytes
+match 162.159.234.226 https://mfisp.com 100 percent in 500 bytes
+match 162.159.235.226 https://mfisp.com 100 percent in 500 bytes
+match 162.159.234.226 https://mfisp.com 100 percent in 500 bytes
+match 162.159.234.226 https://mfisp.com 100 percent in 500 bytes
+miss 27.124.17.166 https://mfisp.com 0 percent in 0 bytes

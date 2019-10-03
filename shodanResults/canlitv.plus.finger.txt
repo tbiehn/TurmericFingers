@@ -1,0 +1,11 @@
+miss 2606:4700:20::6819:f505 https://canlitv.plus 0 percent in 0 bytes
+miss 2606:4700:20::6819:f505 https://canlitv.plus 0 percent in 0 bytes
+miss 2606:4700:20::6819:f505 https://canlitv.plus 0 percent in 0 bytes
+match 104.25.244.5 https://canlitv.plus 100 percent in 500 bytes
+match 104.25.245.5 https://canlitv.plus 100 percent in 500 bytes
+match 104.25.245.5 https://canlitv.plus 100 percent in 500 bytes
+match 104.25.244.5 https://canlitv.plus 100 percent in 500 bytes
+match 104.25.244.5 https://canlitv.plus 100 percent in 500 bytes
+match 104.25.245.5 https://canlitv.plus 100 percent in 500 bytes
+match 104.25.245.5 https://canlitv.plus 100 percent in 500 bytes
+match 104.25.244.5 https://canlitv.plus 100 percent in 500 bytes

@@ -1,0 +1,12 @@
+miss 2606:4700:20::6819:516e https://myasiantv.to 0 percent in 0 bytes
+miss 2606:4700:20::6819:526e https://myasiantv.to 0 percent in 0 bytes
+miss 2606:4700:20::6819:526e https://myasiantv.to 0 percent in 0 bytes
+miss 2606:4700:20::6819:516e https://myasiantv.to 0 percent in 0 bytes
+miss 2606:4700:20::6819:516e https://myasiantv.to 0 percent in 0 bytes
+miss 104.25.81.110 https://myasiantv.to 0 percent in 0 bytes
+miss 104.25.81.110 https://myasiantv.to 0 percent in 0 bytes
+miss 104.25.81.110 https://myasiantv.to 0 percent in 0 bytes
+miss 104.25.82.110 https://myasiantv.to 0 percent in 0 bytes
+miss 104.25.82.110 https://myasiantv.to 0 percent in 0 bytes
+miss 104.25.82.110 https://myasiantv.to 0 percent in 0 bytes
+miss 104.25.82.110 https://myasiantv.to 0 percent in 0 bytes

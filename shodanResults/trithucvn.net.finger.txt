@@ -1,0 +1,8 @@
+match 104.20.50.187 https://trithucvn.net 100 percent in 500 bytes
+match 104.20.50.187 https://trithucvn.net 100 percent in 500 bytes
+match 104.20.50.187 https://trithucvn.net 100 percent in 500 bytes
+match 104.20.44.187 https://trithucvn.net 100 percent in 500 bytes
+match 104.20.44.187 https://trithucvn.net 100 percent in 500 bytes
+match 104.20.50.187 https://trithucvn.net 100 percent in 500 bytes
+match 104.20.44.187 https://trithucvn.net 100 percent in 500 bytes
+match 104.20.44.187 https://trithucvn.net 100 percent in 500 bytes

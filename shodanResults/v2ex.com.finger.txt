@@ -1,0 +1,9 @@
+miss 2606:4700:10::6814:9da https://v2ex.com 0 percent in 0 bytes
+miss 2606:4700:10::6814:ada https://v2ex.com 0 percent in 0 bytes
+match 104.20.9.218 https://v2ex.com 100 percent in 500 bytes
+match 104.20.10.218 https://v2ex.com 100 percent in 500 bytes
+match 104.20.10.218 https://v2ex.com 100 percent in 500 bytes
+match 104.20.9.218 https://v2ex.com 100 percent in 500 bytes
+match 104.20.10.218 https://v2ex.com 100 percent in 500 bytes
+match 104.20.9.218 https://v2ex.com 100 percent in 500 bytes
+miss 68.4.203.131 https://v2ex.com 0 percent in 0 bytes

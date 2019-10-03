@@ -1,0 +1,11 @@
+match 104.18.205.87 https://indiafilings.com 100 percent in 500 bytes
+match 104.18.204.87 https://indiafilings.com 100 percent in 500 bytes
+match 104.18.205.87 https://indiafilings.com 100 percent in 500 bytes
+match 104.18.205.87 https://indiafilings.com 100 percent in 500 bytes
+match 104.18.204.87 https://indiafilings.com 100 percent in 500 bytes
+match 104.18.205.87 https://indiafilings.com 100 percent in 500 bytes
+match 52.66.29.103 https://indiafilings.com 62 percent in 500 bytes
+match 104.18.204.87 https://indiafilings.com 100 percent in 500 bytes
+miss 13.126.115.161 https://indiafilings.com 40 percent in 500 bytes
+match 104.18.204.87 https://indiafilings.com 100 percent in 500 bytes
+miss 13.232.182.174 https://indiafilings.com 0 percent in 0 bytes

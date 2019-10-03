@@ -1,0 +1,6 @@
+miss 54.39.200.189 https://visaooeste.com.br 0 percent in 0 bytes
+miss 54.39.200.189 https://visaooeste.com.br 0 percent in 0 bytes
+match 54.39.188.38 https://visaooeste.com.br 86 percent in 500 bytes
+match 54.39.188.38 https://visaooeste.com.br 86 percent in 500 bytes
+match 54.39.188.38 https://visaooeste.com.br 86 percent in 500 bytes
+match 54.39.188.38 https://visaooeste.com.br 86 percent in 500 bytes

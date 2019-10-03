@@ -1,0 +1,2 @@
+miss 185.152.64.150 https://vivo.sx -4 percent in 500 bytes
+miss 89.187.188.222 https://vivo.sx -4 percent in 500 bytes

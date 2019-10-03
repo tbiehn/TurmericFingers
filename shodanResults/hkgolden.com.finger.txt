@@ -1,0 +1,7 @@
+miss 2606:4700:10::6816:d27 https://hkgolden.com 0 percent in 0 bytes
+miss 2606:4700:10::6816:c27 https://hkgolden.com 0 percent in 0 bytes
+miss 35.229.184.49 https://hkgolden.com -36 percent in 146 bytes
+match 104.22.12.39 https://hkgolden.com 100 percent in 500 bytes
+match 104.22.13.39 https://hkgolden.com 100 percent in 500 bytes
+miss 35.194.230.136 https://hkgolden.com 0 percent in 0 bytes
+miss 35.187.144.191 https://hkgolden.com 0 percent in 0 bytes

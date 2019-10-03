@@ -1,0 +1,17 @@
+miss 2606:4700:20::6819:590d https://mobilekomak.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:580d https://mobilekomak.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:590d https://mobilekomak.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:580d https://mobilekomak.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:590d https://mobilekomak.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:580d https://mobilekomak.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:580d https://mobilekomak.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:590d https://mobilekomak.com 0 percent in 0 bytes
+match 104.25.88.13 https://mobilekomak.com 100 percent in 500 bytes
+match 104.25.88.13 https://mobilekomak.com 100 percent in 500 bytes
+match 104.25.88.13 https://mobilekomak.com 100 percent in 500 bytes
+match 104.25.89.13 https://mobilekomak.com 100 percent in 500 bytes
+match 104.25.89.13 https://mobilekomak.com 100 percent in 500 bytes
+match 104.25.89.13 https://mobilekomak.com 100 percent in 500 bytes
+match 104.25.88.13 https://mobilekomak.com 100 percent in 500 bytes
+match 130.185.74.208 https://mobilekomak.com 97 percent in 500 bytes
+match 104.25.89.13 https://mobilekomak.com 100 percent in 500 bytes

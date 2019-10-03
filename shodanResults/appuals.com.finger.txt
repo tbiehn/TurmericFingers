@@ -1,0 +1,14 @@
+miss 2606:4700:20::6819:4173 https://appuals.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:4173 https://appuals.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:4173 https://appuals.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:4273 https://appuals.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:4273 https://appuals.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:4173 https://appuals.com 0 percent in 0 bytes
+match 104.25.65.115 https://appuals.com 100 percent in 500 bytes
+match 104.25.66.115 https://appuals.com 100 percent in 500 bytes
+match 104.25.66.115 https://appuals.com 100 percent in 500 bytes
+match 104.25.65.115 https://appuals.com 100 percent in 500 bytes
+match 104.25.66.115 https://appuals.com 100 percent in 500 bytes
+match 104.25.65.115 https://appuals.com 100 percent in 500 bytes
+match 104.25.65.115 https://appuals.com 100 percent in 500 bytes
+match 104.25.66.115 https://appuals.com 100 percent in 500 bytes

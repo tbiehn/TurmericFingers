@@ -1,0 +1,10 @@
+miss 2606:4700:10::6814:ba https://brainyquote.com 0 percent in 0 bytes
+miss 2400:cb00:2048:1::6814:1ba https://brainyquote.com 0 percent in 0 bytes
+match 104.20.0.186 https://brainyquote.com 100 percent in 500 bytes
+match 104.20.1.186 https://brainyquote.com 100 percent in 500 bytes
+match 104.20.1.186 https://brainyquote.com 100 percent in 500 bytes
+match 104.20.0.186 https://brainyquote.com 100 percent in 500 bytes
+match 104.20.1.186 https://brainyquote.com 100 percent in 500 bytes
+match 104.20.0.186 https://brainyquote.com 100 percent in 500 bytes
+match 104.20.1.186 https://brainyquote.com 100 percent in 500 bytes
+match 104.20.0.186 https://brainyquote.com 100 percent in 500 bytes

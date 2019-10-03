@@ -1,0 +1,8 @@
+match 104.20.170.49 https://discuss.com.hk 100 percent in 500 bytes
+match 104.20.171.49 https://discuss.com.hk 100 percent in 500 bytes
+match 104.20.171.49 https://discuss.com.hk 100 percent in 500 bytes
+match 104.20.170.49 https://discuss.com.hk 100 percent in 500 bytes
+match 104.20.170.49 https://discuss.com.hk 100 percent in 500 bytes
+match 104.20.171.49 https://discuss.com.hk 100 percent in 500 bytes
+match 104.20.170.49 https://discuss.com.hk 100 percent in 500 bytes
+match 104.20.171.49 https://discuss.com.hk 100 percent in 500 bytes

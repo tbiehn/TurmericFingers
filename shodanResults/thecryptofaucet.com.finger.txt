@@ -1,0 +1,16 @@
+miss 2606:4700:20::6819:da0c https://thecryptofaucet.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:db0c https://thecryptofaucet.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:db0c https://thecryptofaucet.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:da0c https://thecryptofaucet.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:da0c https://thecryptofaucet.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:da0c https://thecryptofaucet.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:db0c https://thecryptofaucet.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:db0c https://thecryptofaucet.com 0 percent in 0 bytes
+match 104.25.219.12 https://thecryptofaucet.com 100 percent in 500 bytes
+match 104.25.219.12 https://thecryptofaucet.com 100 percent in 500 bytes
+match 104.25.219.12 https://thecryptofaucet.com 100 percent in 500 bytes
+match 104.25.219.12 https://thecryptofaucet.com 100 percent in 500 bytes
+match 104.25.218.12 https://thecryptofaucet.com 100 percent in 500 bytes
+match 104.25.218.12 https://thecryptofaucet.com 100 percent in 500 bytes
+match 104.25.218.12 https://thecryptofaucet.com 100 percent in 500 bytes
+match 104.25.218.12 https://thecryptofaucet.com 100 percent in 500 bytes

@@ -1,0 +1,6 @@
+match 104.18.97.60 https://spotscenered.info 100 percent in 500 bytes
+match 104.18.96.60 https://spotscenered.info 100 percent in 500 bytes
+match 104.18.96.60 https://spotscenered.info 99 percent in 500 bytes
+match 104.18.96.60 https://spotscenered.info 99 percent in 500 bytes
+match 104.18.97.60 https://spotscenered.info 99 percent in 500 bytes
+match 104.18.97.60 https://spotscenered.info 100 percent in 500 bytes

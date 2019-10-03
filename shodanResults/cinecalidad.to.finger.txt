@@ -1,0 +1,4 @@
+match 91.219.237.219 https://cinecalidad.to 100 percent in 500 bytes
+match 104.31.7.173 https://cinecalidad.to 100 percent in 500 bytes
+match 104.31.6.173 https://cinecalidad.to 100 percent in 500 bytes
+match 217.147.172.13 https://cinecalidad.to 100 percent in 500 bytes

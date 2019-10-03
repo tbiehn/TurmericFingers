@@ -1,0 +1,15 @@
+match 200.147.36.82 https://noticias.uol.com.br 100 percent in 500 bytes
+miss 200.147.36.77 https://noticias.uol.com.br 13 percent in 500 bytes
+match 200.221.64.40 https://noticias.uol.com.br 100 percent in 500 bytes
+match 200.147.32.25 https://noticias.uol.com.br 100 percent in 500 bytes
+match 200.221.138.82 https://noticias.uol.com.br 100 percent in 500 bytes
+miss 200.147.36.79 https://noticias.uol.com.br 13 percent in 500 bytes
+match 200.221.138.80 https://noticias.uol.com.br 100 percent in 500 bytes
+match 200.147.32.26 https://noticias.uol.com.br 100 percent in 500 bytes
+match 200.147.32.24 https://noticias.uol.com.br 100 percent in 500 bytes
+match 200.147.4.74 https://noticias.uol.com.br 100 percent in 500 bytes
+match 200.221.64.45 https://noticias.uol.com.br 100 percent in 500 bytes
+match 200.221.138.86 https://noticias.uol.com.br 100 percent in 500 bytes
+match 200.221.138.84 https://noticias.uol.com.br 100 percent in 500 bytes
+match 200.221.138.85 https://noticias.uol.com.br 100 percent in 500 bytes
+match 200.98.4.7 https://noticias.uol.com.br 100 percent in 500 bytes

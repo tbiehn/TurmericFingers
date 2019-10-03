@@ -1,0 +1,10 @@
+miss 188.40.36.151 https://termometropolitico.it 1 percent in 500 bytes
+miss 188.40.36.151 https://termometropolitico.it 1 percent in 500 bytes
+miss 188.40.36.151 https://termometropolitico.it 1 percent in 500 bytes
+miss 188.40.36.151 https://termometropolitico.it 1 percent in 500 bytes
+miss 188.40.36.151 https://termometropolitico.it 1 percent in 500 bytes
+miss 188.40.36.151 https://termometropolitico.it 1 percent in 500 bytes
+miss 188.40.36.151 https://termometropolitico.it 1 percent in 500 bytes
+miss 188.40.36.151 https://termometropolitico.it 1 percent in 500 bytes
+match 195.201.53.8 https://termometropolitico.it 100 percent in 500 bytes
+match 195.201.53.8 https://termometropolitico.it 100 percent in 500 bytes

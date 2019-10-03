@@ -1,0 +1,12 @@
+miss 2606:4700:20::6819:f267 https://atlasobscura.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:f167 https://atlasobscura.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:f267 https://atlasobscura.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:f267 https://atlasobscura.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:f267 https://atlasobscura.com 0 percent in 0 bytes
+match 104.25.242.103 https://atlasobscura.com 100 percent in 500 bytes
+match 104.25.241.103 https://atlasobscura.com 100 percent in 500 bytes
+match 104.25.242.103 https://atlasobscura.com 100 percent in 500 bytes
+match 104.25.242.103 https://atlasobscura.com 100 percent in 500 bytes
+match 104.25.241.103 https://atlasobscura.com 100 percent in 500 bytes
+match 104.25.242.103 https://atlasobscura.com 100 percent in 500 bytes
+match 104.25.241.103 https://atlasobscura.com 100 percent in 500 bytes

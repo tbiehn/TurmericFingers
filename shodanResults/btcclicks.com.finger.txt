@@ -1,0 +1,17 @@
+miss 2606:4700:20::6819:496f https://btcclicks.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:496f https://btcclicks.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:496f https://btcclicks.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:496f https://btcclicks.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:4a6f https://btcclicks.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:4a6f https://btcclicks.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:4a6f https://btcclicks.com 0 percent in 0 bytes
+match 209.188.21.10 https://btcclicks.com 100 percent in 500 bytes
+match 209.188.21.11 https://btcclicks.com 100 percent in 500 bytes
+miss 104.25.74.111 https://btcclicks.com -33 percent in 189 bytes
+miss 104.25.74.111 https://btcclicks.com -33 percent in 189 bytes
+miss 104.25.74.111 https://btcclicks.com -33 percent in 189 bytes
+match 104.25.73.111 https://btcclicks.com 100 percent in 500 bytes
+miss 104.25.73.111 https://btcclicks.com -33 percent in 189 bytes
+match 104.25.73.111 https://btcclicks.com 100 percent in 500 bytes
+match 104.25.73.111 https://btcclicks.com 100 percent in 500 bytes
+match 104.25.74.111 https://btcclicks.com 100 percent in 500 bytes

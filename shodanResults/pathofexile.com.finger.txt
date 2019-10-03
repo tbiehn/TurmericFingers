@@ -1,0 +1,11 @@
+miss 2606:4700::6813:ba10 https://pathofexile.com 0 percent in 0 bytes
+miss 2606:4700::6813:b910 https://pathofexile.com 0 percent in 0 bytes
+miss 2606:4700::6813:b910 https://pathofexile.com 0 percent in 0 bytes
+match 104.19.185.16 https://pathofexile.com 100 percent in 500 bytes
+match 104.19.186.16 https://pathofexile.com 100 percent in 500 bytes
+match 104.19.185.16 https://pathofexile.com 100 percent in 500 bytes
+match 104.19.186.16 https://pathofexile.com 100 percent in 500 bytes
+match 104.19.185.16 https://pathofexile.com 100 percent in 500 bytes
+match 104.19.186.16 https://pathofexile.com 100 percent in 500 bytes
+match 104.19.186.16 https://pathofexile.com 100 percent in 500 bytes
+match 104.19.185.16 https://pathofexile.com 100 percent in 500 bytes

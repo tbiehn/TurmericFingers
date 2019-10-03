@@ -1,0 +1,8 @@
+match 104.20.118.13 https://presslogic.com 100 percent in 500 bytes
+match 104.20.119.13 https://presslogic.com 100 percent in 500 bytes
+match 104.20.119.13 https://presslogic.com 100 percent in 500 bytes
+match 104.20.118.13 https://presslogic.com 100 percent in 500 bytes
+match 104.20.119.13 https://presslogic.com 100 percent in 500 bytes
+match 104.20.118.13 https://presslogic.com 100 percent in 500 bytes
+match 104.20.119.13 https://presslogic.com 100 percent in 500 bytes
+match 104.20.118.13 https://presslogic.com 100 percent in 500 bytes

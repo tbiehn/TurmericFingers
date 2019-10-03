@@ -1,0 +1,17 @@
+miss 2400:cb00:2048:1::6814:2c9a https://buzzorange.com 0 percent in 0 bytes
+miss 2606:4700:10::6814:2d9a https://buzzorange.com 0 percent in 0 bytes
+miss 2400:cb00:2048:1::6814:2d9a https://buzzorange.com 0 percent in 0 bytes
+match 104.20.44.154 https://buzzorange.com 100 percent in 500 bytes
+miss 13.228.225.148 https://buzzorange.com -37 percent in 500 bytes
+miss 54.169.8.228 https://buzzorange.com -36 percent in 500 bytes
+match 104.20.45.154 https://buzzorange.com 100 percent in 500 bytes
+match 104.20.45.154 https://buzzorange.com 100 percent in 500 bytes
+match 104.20.44.154 https://buzzorange.com 100 percent in 500 bytes
+match 104.20.44.154 https://buzzorange.com 100 percent in 500 bytes
+match 104.20.44.154 https://buzzorange.com 100 percent in 500 bytes
+match 52.77.34.142 https://buzzorange.com 96 percent in 500 bytes
+match 104.20.45.154 https://buzzorange.com 100 percent in 500 bytes
+match 104.20.45.154 https://buzzorange.com 100 percent in 500 bytes
+miss 18.139.85.237 https://buzzorange.com 0 percent in 0 bytes
+miss 18.139.117.104 https://buzzorange.com 0 percent in 0 bytes
+miss 18.136.100.249 https://buzzorange.com 0 percent in 0 bytes

@@ -1,0 +1,5 @@
+miss 144.217.110.41 https://sarkariexam.com 2 percent in 500 bytes
+miss 144.217.110.43 https://sarkariexam.com -28 percent in 500 bytes
+match 104.31.77.21 https://sarkariexam.com 100 percent in 500 bytes
+match 139.59.93.200 https://sarkariexam.com 100 percent in 500 bytes
+match 104.31.76.21 https://sarkariexam.com 100 percent in 500 bytes

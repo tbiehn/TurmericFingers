@@ -1,0 +1,15 @@
+miss 2606:4700:20::6819:4a07 https://minijuegos.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:4b07 https://minijuegos.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:4b07 https://minijuegos.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:4b07 https://minijuegos.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:4b07 https://minijuegos.com 0 percent in 0 bytes
+miss 87.98.226.152 https://minijuegos.com -17 percent in 500 bytes
+match 104.25.74.7 https://minijuegos.com 100 percent in 500 bytes
+match 104.25.75.7 https://minijuegos.com 100 percent in 500 bytes
+match 104.25.75.7 https://minijuegos.com 100 percent in 500 bytes
+match 104.25.74.7 https://minijuegos.com 100 percent in 500 bytes
+match 104.25.74.7 https://minijuegos.com 100 percent in 500 bytes
+match 104.25.75.7 https://minijuegos.com 100 percent in 500 bytes
+match 104.25.75.7 https://minijuegos.com 100 percent in 500 bytes
+match 104.25.74.7 https://minijuegos.com 100 percent in 500 bytes
+miss 87.98.225.151 https://minijuegos.com 0 percent in 0 bytes

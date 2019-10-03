@@ -1,0 +1,12 @@
+miss 2606:4700:20::6819:a70e https://newstrend.news 0 percent in 0 bytes
+miss 2606:4700:20::6819:a60e https://newstrend.news 0 percent in 0 bytes
+miss 2606:4700:20::6819:a70e https://newstrend.news 0 percent in 0 bytes
+miss 2606:4700:20::6819:a60e https://newstrend.news 0 percent in 0 bytes
+miss 2606:4700:20::6819:a70e https://newstrend.news 0 percent in 0 bytes
+match 104.25.167.14 https://newstrend.news 100 percent in 500 bytes
+match 104.25.167.14 https://newstrend.news 100 percent in 500 bytes
+match 104.25.166.14 https://newstrend.news 100 percent in 500 bytes
+match 104.25.166.14 https://newstrend.news 100 percent in 500 bytes
+match 104.25.166.14 https://newstrend.news 100 percent in 500 bytes
+match 104.25.166.14 https://newstrend.news 100 percent in 500 bytes
+match 104.25.167.14 https://newstrend.news 100 percent in 500 bytes

@@ -1,0 +1,9 @@
+miss 2606:4700::6812:ccde https://otvfoco.com.br 0 percent in 0 bytes
+match 104.18.204.222 https://otvfoco.com.br 100 percent in 500 bytes
+match 104.18.204.222 https://otvfoco.com.br 100 percent in 500 bytes
+match 104.18.204.222 https://otvfoco.com.br 100 percent in 500 bytes
+match 104.18.205.222 https://otvfoco.com.br 100 percent in 500 bytes
+match 104.18.205.222 https://otvfoco.com.br 100 percent in 500 bytes
+match 104.18.205.222 https://otvfoco.com.br 100 percent in 500 bytes
+match 104.18.204.222 https://otvfoco.com.br 100 percent in 500 bytes
+match 104.18.205.222 https://otvfoco.com.br 100 percent in 500 bytes

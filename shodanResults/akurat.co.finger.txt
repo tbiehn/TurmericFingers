@@ -1,0 +1,6 @@
+miss 2606:4700:30::681f:4db5 https://akurat.co 0 percent in 0 bytes
+miss 103.77.106.164 https://akurat.co -32 percent in 381 bytes
+miss 27.124.85.68 https://akurat.co -32 percent in 381 bytes
+miss 27.124.85.85 https://akurat.co -40 percent in 500 bytes
+match 27.124.85.88 https://akurat.co 97 percent in 500 bytes
+match 27.124.85.77 https://akurat.co 96 percent in 500 bytes

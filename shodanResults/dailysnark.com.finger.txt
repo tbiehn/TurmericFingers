@@ -1,0 +1,15 @@
+miss 2606:4700:20::6819:ea0b https://dailysnark.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:ea0b https://dailysnark.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:ea0b https://dailysnark.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:ea0b https://dailysnark.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:eb0b https://dailysnark.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:eb0b https://dailysnark.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:eb0b https://dailysnark.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:eb0b https://dailysnark.com 0 percent in 0 bytes
+match 104.25.234.11 https://dailysnark.com 100 percent in 500 bytes
+match 104.25.234.11 https://dailysnark.com 100 percent in 500 bytes
+match 104.25.235.11 https://dailysnark.com 100 percent in 500 bytes
+match 104.25.235.11 https://dailysnark.com 100 percent in 500 bytes
+match 104.25.235.11 https://dailysnark.com 100 percent in 500 bytes
+match 104.25.234.11 https://dailysnark.com 100 percent in 500 bytes
+match 104.25.234.11 https://dailysnark.com 100 percent in 500 bytes

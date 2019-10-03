@@ -1,0 +1,13 @@
+miss 2606:4700:20::6819:1c69 https://techjunkie.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:1b69 https://techjunkie.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:1b69 https://techjunkie.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:1c69 https://techjunkie.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:1c69 https://techjunkie.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:1b69 https://techjunkie.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:1b69 https://techjunkie.com 0 percent in 0 bytes
+match 104.25.27.105 https://techjunkie.com 100 percent in 500 bytes
+match 104.25.28.105 https://techjunkie.com 100 percent in 500 bytes
+match 104.25.28.105 https://techjunkie.com 100 percent in 500 bytes
+match 104.25.28.105 https://techjunkie.com 100 percent in 500 bytes
+match 104.25.27.105 https://techjunkie.com 100 percent in 500 bytes
+match 104.25.27.105 https://techjunkie.com 100 percent in 500 bytes

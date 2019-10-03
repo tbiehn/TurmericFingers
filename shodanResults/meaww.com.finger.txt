@@ -1,0 +1,8 @@
+match 104.18.251.44 https://meaww.com 100 percent in 500 bytes
+match 104.18.251.44 https://meaww.com 100 percent in 500 bytes
+match 104.18.250.44 https://meaww.com 100 percent in 500 bytes
+miss 54.91.190.233 https://meaww.com -50 percent in 243 bytes
+match 104.18.250.44 https://meaww.com 100 percent in 500 bytes
+match 104.18.250.44 https://meaww.com 100 percent in 500 bytes
+match 104.18.251.44 https://meaww.com 100 percent in 500 bytes
+match 104.18.250.44 https://meaww.com 100 percent in 500 bytes

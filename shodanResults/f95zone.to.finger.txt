@@ -1,0 +1,12 @@
+miss 2606:4700:20::6819:7267 https://f95zone.to 0 percent in 0 bytes
+miss 2606:4700:20::6819:7267 https://f95zone.to 0 percent in 0 bytes
+miss 2606:4700:20::6819:7267 https://f95zone.to 0 percent in 0 bytes
+miss 2606:4700:20::6819:7167 https://f95zone.to 0 percent in 0 bytes
+miss 2606:4700:20::6819:7167 https://f95zone.to 0 percent in 0 bytes
+match 104.25.114.103 https://f95zone.to 93 percent in 500 bytes
+match 104.25.113.103 https://f95zone.to 91 percent in 500 bytes
+match 104.25.113.103 https://f95zone.to 91 percent in 500 bytes
+match 104.25.114.103 https://f95zone.to 91 percent in 500 bytes
+match 104.25.114.103 https://f95zone.to 92 percent in 500 bytes
+match 104.25.113.103 https://f95zone.to 90 percent in 500 bytes
+match 104.25.113.103 https://f95zone.to 92 percent in 500 bytes

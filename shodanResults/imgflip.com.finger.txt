@@ -1,0 +1,11 @@
+match 104.18.64.15 https://imgflip.com 100 percent in 500 bytes
+match 104.18.255.14 https://imgflip.com 100 percent in 500 bytes
+match 34.214.170.109 https://imgflip.com 95 percent in 500 bytes
+match 104.18.64.15 https://imgflip.com 100 percent in 500 bytes
+match 104.18.255.14 https://imgflip.com 100 percent in 500 bytes
+match 104.18.64.15 https://imgflip.com 100 percent in 500 bytes
+match 104.18.64.15 https://imgflip.com 100 percent in 500 bytes
+match 52.33.246.170 https://imgflip.com 95 percent in 500 bytes
+match 54.69.182.173 https://imgflip.com 95 percent in 500 bytes
+match 104.18.255.14 https://imgflip.com 100 percent in 500 bytes
+match 104.18.255.14 https://imgflip.com 100 percent in 500 bytes

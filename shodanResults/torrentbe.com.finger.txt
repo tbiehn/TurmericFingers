@@ -1,0 +1,6 @@
+match 104.20.255.113 https://torrentbe.com 100 percent in 500 bytes
+match 104.20.255.113 https://torrentbe.com 100 percent in 500 bytes
+match 104.20.255.113 https://torrentbe.com 100 percent in 500 bytes
+match 104.20.255.113 https://torrentbe.com 100 percent in 500 bytes
+match 104.20.96.114 https://torrentbe.com 100 percent in 500 bytes
+match 104.20.96.114 https://torrentbe.com 100 percent in 500 bytes

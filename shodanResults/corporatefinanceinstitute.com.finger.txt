@@ -1,0 +1,15 @@
+miss 2606:4700:20::6819:5568 https://corporatefinanceinstitute.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:5568 https://corporatefinanceinstitute.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:5568 https://corporatefinanceinstitute.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:5668 https://corporatefinanceinstitute.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:5668 https://corporatefinanceinstitute.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:5668 https://corporatefinanceinstitute.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:5568 https://corporatefinanceinstitute.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:5668 https://corporatefinanceinstitute.com 0 percent in 0 bytes
+match 104.25.85.104 https://corporatefinanceinstitute.com 100 percent in 500 bytes
+match 104.25.85.104 https://corporatefinanceinstitute.com 100 percent in 500 bytes
+match 104.25.85.104 https://corporatefinanceinstitute.com 100 percent in 500 bytes
+match 104.25.86.104 https://corporatefinanceinstitute.com 100 percent in 500 bytes
+match 104.25.86.104 https://corporatefinanceinstitute.com 100 percent in 500 bytes
+match 104.25.86.104 https://corporatefinanceinstitute.com 100 percent in 500 bytes
+match 104.25.85.104 https://corporatefinanceinstitute.com 100 percent in 500 bytes

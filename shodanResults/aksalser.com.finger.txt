@@ -1,0 +1,1 @@
+match 104.26.1.34 https://aksalser.com 100 percent in 500 bytes

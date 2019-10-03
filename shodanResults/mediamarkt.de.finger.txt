@@ -1,0 +1,16 @@
+miss 194.233.193.93 https://mediamarkt.de -42 percent in 395 bytes
+miss 194.233.210.24 https://mediamarkt.de 0 percent in 0 bytes
+miss 194.233.204.24 https://mediamarkt.de 0 percent in 0 bytes
+miss 194.233.211.24 https://mediamarkt.de 0 percent in 0 bytes
+miss 194.233.209.24 https://mediamarkt.de 0 percent in 0 bytes
+match 212.116.5.152 https://mediamarkt.de 62 percent in 500 bytes
+match 172.65.210.32 https://mediamarkt.de 100 percent in 500 bytes
+match 212.116.25.24 https://mediamarkt.de 100 percent in 500 bytes
+match 194.233.193.1 https://mediamarkt.de 100 percent in 500 bytes
+match 194.233.193.24 https://mediamarkt.de 100 percent in 500 bytes
+miss 194.233.204.137 https://mediamarkt.de -57 percent in 28 bytes
+match 194.233.208.24 https://mediamarkt.de 100 percent in 500 bytes
+match 212.116.15.24 https://mediamarkt.de 100 percent in 500 bytes
+miss 195.179.130.7 https://mediamarkt.de -57 percent in 28 bytes
+miss 194.233.193.68 https://mediamarkt.de 0 percent in 0 bytes
+miss 194.233.193.122 https://mediamarkt.de 0 percent in 0 bytes

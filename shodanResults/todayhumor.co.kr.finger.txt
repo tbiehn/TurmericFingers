@@ -1,0 +1,17 @@
+match 211.115.86.154 https://todayhumor.co.kr 100 percent in 500 bytes
+match 141.101.121.191 https://todayhumor.co.kr 100 percent in 500 bytes
+match 141.101.121.191 https://todayhumor.co.kr 100 percent in 500 bytes
+match 141.101.121.218 https://todayhumor.co.kr 100 percent in 500 bytes
+match 141.101.121.192 https://todayhumor.co.kr 100 percent in 500 bytes
+match 141.101.121.217 https://todayhumor.co.kr 100 percent in 500 bytes
+match 141.101.121.218 https://todayhumor.co.kr 100 percent in 500 bytes
+match 141.101.121.218 https://todayhumor.co.kr 100 percent in 500 bytes
+match 141.101.121.192 https://todayhumor.co.kr 100 percent in 500 bytes
+match 141.101.121.191 https://todayhumor.co.kr 100 percent in 500 bytes
+match 141.101.121.192 https://todayhumor.co.kr 100 percent in 500 bytes
+match 141.101.121.191 https://todayhumor.co.kr 100 percent in 500 bytes
+match 141.101.121.217 https://todayhumor.co.kr 100 percent in 500 bytes
+match 141.101.121.192 https://todayhumor.co.kr 100 percent in 500 bytes
+match 141.101.121.218 https://todayhumor.co.kr 100 percent in 500 bytes
+match 141.101.121.217 https://todayhumor.co.kr 100 percent in 500 bytes
+miss 211.115.86.153 https://todayhumor.co.kr 0 percent in 0 bytes

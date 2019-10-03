@@ -1,0 +1,15 @@
+miss 2606:4700:20::6819:8c1b https://grifo210.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:8d1b https://grifo210.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:8d1b https://grifo210.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:8d1b https://grifo210.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:8c1b https://grifo210.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:8c1b https://grifo210.com 0 percent in 0 bytes
+miss 35.227.230.141 https://grifo210.com 0 percent in 0 bytes
+miss 104.25.140.27 https://grifo210.com 0 percent in 0 bytes
+miss 104.25.140.27 https://grifo210.com 0 percent in 0 bytes
+miss 104.25.140.27 https://grifo210.com 0 percent in 0 bytes
+miss 104.25.141.27 https://grifo210.com 0 percent in 0 bytes
+miss 104.25.140.27 https://grifo210.com 0 percent in 0 bytes
+miss 104.25.141.27 https://grifo210.com 0 percent in 0 bytes
+miss 104.25.141.27 https://grifo210.com 0 percent in 0 bytes
+miss 104.25.141.27 https://grifo210.com 0 percent in 0 bytes

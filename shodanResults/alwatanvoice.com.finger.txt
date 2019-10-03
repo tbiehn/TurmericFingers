@@ -1,0 +1,17 @@
+miss 2606:4700:20::6819:8f65 https://alwatanvoice.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:9065 https://alwatanvoice.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:8f65 https://alwatanvoice.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:8f65 https://alwatanvoice.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:9065 https://alwatanvoice.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:8f65 https://alwatanvoice.com 0 percent in 0 bytes
+match 35.190.22.223 https://alwatanvoice.com 72 percent in 500 bytes
+match 104.25.144.101 https://alwatanvoice.com 100 percent in 500 bytes
+match 104.25.144.101 https://alwatanvoice.com 100 percent in 500 bytes
+match 104.25.144.101 https://alwatanvoice.com 100 percent in 500 bytes
+match 104.25.144.101 https://alwatanvoice.com 100 percent in 500 bytes
+match 104.25.143.101 https://alwatanvoice.com 100 percent in 500 bytes
+match 104.25.143.101 https://alwatanvoice.com 100 percent in 500 bytes
+match 104.25.143.101 https://alwatanvoice.com 100 percent in 500 bytes
+match 104.25.143.101 https://alwatanvoice.com 100 percent in 500 bytes
+match 136.243.74.198 https://alwatanvoice.com 72 percent in 500 bytes
+match 136.243.74.199 https://alwatanvoice.com 72 percent in 500 bytes

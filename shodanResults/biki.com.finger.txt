@@ -1,0 +1,14 @@
+miss 18.182.235.84 https://biki.com -30 percent in 500 bytes
+miss 3.114.92.57 https://biki.com -39 percent in 500 bytes
+miss 54.65.163.165 https://biki.com -66 percent in 18 bytes
+miss 52.197.208.219 https://biki.com -30 percent in 321 bytes
+miss 13.230.178.79 https://biki.com -34 percent in 500 bytes
+miss 54.249.37.82 https://biki.com -34 percent in 500 bytes
+miss 13.112.93.2 https://biki.com -34 percent in 500 bytes
+miss 52.198.49.26 https://biki.com -34 percent in 500 bytes
+miss 116.91.149.14 https://biki.com 0 percent in 0 bytes
+miss 52.69.231.147 https://biki.com 0 percent in 0 bytes
+miss 54.65.7.224 https://biki.com 0 percent in 0 bytes
+miss 13.114.223.81 https://biki.com 0 percent in 0 bytes
+miss 3.113.61.204 https://biki.com 0 percent in 0 bytes
+miss 54.65.55.170 https://biki.com 0 percent in 0 bytes

@@ -1,0 +1,14 @@
+miss 2606:4700:20::6819:d766 https://newsbeast.gr 0 percent in 0 bytes
+miss 2606:4700:20::6819:d766 https://newsbeast.gr 0 percent in 0 bytes
+miss 2606:4700:20::6819:d866 https://newsbeast.gr 0 percent in 0 bytes
+miss 2606:4700:20::6819:d766 https://newsbeast.gr 0 percent in 0 bytes
+miss 2606:4700:20::6819:d866 https://newsbeast.gr 0 percent in 0 bytes
+miss 2606:4700:20::6819:d866 https://newsbeast.gr 0 percent in 0 bytes
+match 104.25.216.102 https://newsbeast.gr 100 percent in 500 bytes
+match 104.25.215.102 https://newsbeast.gr 100 percent in 500 bytes
+match 104.25.216.102 https://newsbeast.gr 100 percent in 500 bytes
+match 104.25.215.102 https://newsbeast.gr 100 percent in 500 bytes
+match 104.25.215.102 https://newsbeast.gr 100 percent in 500 bytes
+match 104.25.216.102 https://newsbeast.gr 100 percent in 500 bytes
+match 104.25.215.102 https://newsbeast.gr 100 percent in 500 bytes
+match 104.25.216.102 https://newsbeast.gr 100 percent in 500 bytes

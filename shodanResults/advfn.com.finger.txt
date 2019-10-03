@@ -1,0 +1,12 @@
+miss 213.86.246.14 https://advfn.com -77 percent in 45 bytes
+miss 52.19.137.47 https://advfn.com -33 percent in 15 bytes
+miss 213.86.246.41 https://advfn.com -85 percent in 28 bytes
+miss 213.86.246.42 https://advfn.com -85 percent in 28 bytes
+miss 213.86.246.43 https://advfn.com -85 percent in 28 bytes
+miss 213.86.244.20 https://advfn.com -38 percent in 500 bytes
+miss 85.133.2.35 https://advfn.com -6 percent in 500 bytes
+miss 85.133.2.35 https://advfn.com -6 percent in 500 bytes
+miss 85.133.2.35 https://advfn.com -6 percent in 500 bytes
+match 104.24.114.81 https://advfn.com 100 percent in 500 bytes
+miss 213.86.246.44 https://advfn.com -85 percent in 28 bytes
+miss 213.86.246.22 https://advfn.com 0 percent in 0 bytes

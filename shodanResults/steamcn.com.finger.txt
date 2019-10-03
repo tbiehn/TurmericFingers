@@ -1,0 +1,9 @@
+match 162.159.234.239 https://steamcn.com 100 percent in 500 bytes
+match 162.159.235.239 https://steamcn.com 100 percent in 500 bytes
+match 162.159.235.239 https://steamcn.com 100 percent in 500 bytes
+match 162.159.234.239 https://steamcn.com 100 percent in 500 bytes
+match 162.159.234.239 https://steamcn.com 100 percent in 500 bytes
+match 162.159.235.239 https://steamcn.com 100 percent in 500 bytes
+match 162.159.234.239 https://steamcn.com 100 percent in 500 bytes
+match 119.29.157.122 https://steamcn.com 99 percent in 500 bytes
+match 119.29.60.128 https://steamcn.com 99 percent in 500 bytes

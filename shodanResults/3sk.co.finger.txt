@@ -1,0 +1,16 @@
+miss 2606:4700:20::6819:1816 https://3sk.co 0 percent in 0 bytes
+miss 2606:4700:20::6819:1816 https://3sk.co 0 percent in 0 bytes
+miss 2606:4700:20::6819:1916 https://3sk.co 0 percent in 0 bytes
+miss 2606:4700:20::6819:1816 https://3sk.co 0 percent in 0 bytes
+miss 2606:4700:20::6819:1916 https://3sk.co 0 percent in 0 bytes
+miss 2606:4700:20::6819:1816 https://3sk.co 0 percent in 0 bytes
+miss 2606:4700:20::6819:1916 https://3sk.co 0 percent in 0 bytes
+miss 212.7.198.65 https://3sk.co -8 percent in 500 bytes
+match 104.25.25.22 https://3sk.co 100 percent in 500 bytes
+match 104.25.24.22 https://3sk.co 100 percent in 500 bytes
+match 104.25.24.22 https://3sk.co 100 percent in 500 bytes
+match 104.25.25.22 https://3sk.co 100 percent in 500 bytes
+match 104.25.25.22 https://3sk.co 100 percent in 500 bytes
+match 104.25.25.22 https://3sk.co 100 percent in 500 bytes
+match 104.25.24.22 https://3sk.co 100 percent in 500 bytes
+match 104.25.24.22 https://3sk.co 100 percent in 500 bytes

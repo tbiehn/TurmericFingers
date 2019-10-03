@@ -1,0 +1,1 @@
+match 104.28.18.140 https://shahid4u.net 100 percent in 500 bytes

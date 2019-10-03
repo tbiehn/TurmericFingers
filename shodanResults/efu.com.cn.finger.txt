@@ -1,0 +1,10 @@
+miss 2606:4700:22::a29f:e8cf https://efu.com.cn 0 percent in 0 bytes
+miss 2606:4700:22::a29f:e9cf https://efu.com.cn 0 percent in 0 bytes
+match 162.159.232.207 https://efu.com.cn 100 percent in 500 bytes
+match 162.159.232.207 https://efu.com.cn 100 percent in 500 bytes
+match 162.159.233.207 https://efu.com.cn 100 percent in 500 bytes
+match 162.159.233.207 https://efu.com.cn 100 percent in 500 bytes
+match 162.159.233.207 https://efu.com.cn 100 percent in 500 bytes
+match 162.159.232.207 https://efu.com.cn 100 percent in 500 bytes
+match 162.159.232.207 https://efu.com.cn 100 percent in 500 bytes
+match 162.159.233.207 https://efu.com.cn 100 percent in 500 bytes

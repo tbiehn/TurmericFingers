@@ -1,0 +1,14 @@
+miss 2606:4700::6813:b72c https://typing.com 0 percent in 0 bytes
+miss 2606:4700::6813:b72c https://typing.com 0 percent in 0 bytes
+miss 2606:4700::6813:b82c https://typing.com 0 percent in 0 bytes
+miss 2606:4700::6813:b72c https://typing.com 0 percent in 0 bytes
+miss 2606:4700::6813:b72c https://typing.com 0 percent in 0 bytes
+miss 192.254.239.98 https://typing.com -31 percent in 500 bytes
+match 104.19.184.44 https://typing.com 100 percent in 500 bytes
+match 104.19.183.44 https://typing.com 100 percent in 500 bytes
+match 104.19.184.44 https://typing.com 100 percent in 500 bytes
+match 104.19.183.44 https://typing.com 100 percent in 500 bytes
+match 104.19.183.44 https://typing.com 100 percent in 500 bytes
+match 104.19.183.44 https://typing.com 100 percent in 500 bytes
+match 104.19.184.44 https://typing.com 100 percent in 500 bytes
+match 104.19.184.44 https://typing.com 100 percent in 500 bytes

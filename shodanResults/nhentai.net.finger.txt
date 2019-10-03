@@ -1,0 +1,8 @@
+match 141.101.120.55 https://nhentai.net 100 percent in 500 bytes
+match 141.101.120.54 https://nhentai.net 100 percent in 500 bytes
+match 141.101.120.54 https://nhentai.net 100 percent in 500 bytes
+match 141.101.120.55 https://nhentai.net 100 percent in 500 bytes
+match 141.101.120.54 https://nhentai.net 100 percent in 500 bytes
+match 141.101.120.55 https://nhentai.net 100 percent in 500 bytes
+match 141.101.120.54 https://nhentai.net 100 percent in 500 bytes
+match 141.101.120.55 https://nhentai.net 100 percent in 500 bytes

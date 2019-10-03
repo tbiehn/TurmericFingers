@@ -1,0 +1,16 @@
+miss 2606:4700:20::6819:8126 https://iefimerida.gr 0 percent in 0 bytes
+miss 2606:4700:20::6819:8126 https://iefimerida.gr 0 percent in 0 bytes
+miss 2606:4700:20::6819:8226 https://iefimerida.gr 0 percent in 0 bytes
+miss 2606:4700:20::6819:8126 https://iefimerida.gr 0 percent in 0 bytes
+miss 2606:4700:20::6819:8226 https://iefimerida.gr 0 percent in 0 bytes
+miss 2606:4700:20::6819:8126 https://iefimerida.gr 0 percent in 0 bytes
+miss 35.206.154.116 https://iefimerida.gr 0 percent in 0 bytes
+match 35.244.202.210 https://iefimerida.gr 100 percent in 500 bytes
+match 104.25.130.38 https://iefimerida.gr 100 percent in 500 bytes
+match 104.25.129.38 https://iefimerida.gr 100 percent in 500 bytes
+match 104.25.129.38 https://iefimerida.gr 100 percent in 500 bytes
+match 104.25.130.38 https://iefimerida.gr 100 percent in 500 bytes
+match 104.25.130.38 https://iefimerida.gr 100 percent in 500 bytes
+match 104.25.129.38 https://iefimerida.gr 100 percent in 500 bytes
+match 104.25.129.38 https://iefimerida.gr 100 percent in 500 bytes
+match 104.25.130.38 https://iefimerida.gr 100 percent in 500 bytes

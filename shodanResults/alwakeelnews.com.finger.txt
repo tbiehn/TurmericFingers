@@ -1,0 +1,14 @@
+miss 2606:4700:20::6819:d120 https://alwakeelnews.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:d120 https://alwakeelnews.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:d020 https://alwakeelnews.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:d120 https://alwakeelnews.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:d020 https://alwakeelnews.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:d020 https://alwakeelnews.com 0 percent in 0 bytes
+match 104.25.208.32 https://alwakeelnews.com 100 percent in 500 bytes
+match 104.25.208.32 https://alwakeelnews.com 100 percent in 500 bytes
+match 104.25.209.32 https://alwakeelnews.com 100 percent in 500 bytes
+match 104.25.209.32 https://alwakeelnews.com 100 percent in 500 bytes
+match 104.25.209.32 https://alwakeelnews.com 100 percent in 500 bytes
+match 104.25.209.32 https://alwakeelnews.com 100 percent in 500 bytes
+match 104.25.208.32 https://alwakeelnews.com 100 percent in 500 bytes
+match 104.25.208.32 https://alwakeelnews.com 100 percent in 500 bytes

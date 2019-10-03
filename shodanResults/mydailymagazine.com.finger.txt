@@ -1,0 +1,14 @@
+miss 2606:4700::6813:e684 https://mydailymagazine.com 0 percent in 0 bytes
+miss 2606:4700::6813:e684 https://mydailymagazine.com 0 percent in 0 bytes
+miss 2606:4700::6813:e584 https://mydailymagazine.com 0 percent in 0 bytes
+miss 2606:4700::6813:e584 https://mydailymagazine.com 0 percent in 0 bytes
+miss 2606:4700::6813:e584 https://mydailymagazine.com 0 percent in 0 bytes
+miss 2606:4700::6813:e684 https://mydailymagazine.com 0 percent in 0 bytes
+match 104.19.229.132 https://mydailymagazine.com 100 percent in 500 bytes
+match 104.19.229.132 https://mydailymagazine.com 100 percent in 500 bytes
+match 104.19.230.132 https://mydailymagazine.com 100 percent in 500 bytes
+match 104.19.230.132 https://mydailymagazine.com 100 percent in 500 bytes
+match 104.19.229.132 https://mydailymagazine.com 100 percent in 500 bytes
+match 104.19.230.132 https://mydailymagazine.com 100 percent in 500 bytes
+match 104.19.229.132 https://mydailymagazine.com 100 percent in 500 bytes
+match 104.19.230.132 https://mydailymagazine.com 100 percent in 500 bytes

@@ -1,0 +1,2 @@
+match 104.24.115.60 https://ed-protect.org 100 percent in 500 bytes
+match 104.24.114.60 https://ed-protect.org 100 percent in 500 bytes

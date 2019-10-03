@@ -1,0 +1,16 @@
+miss 2606:4700:20::6819:6e1e https://zoombangla.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:6e1e https://zoombangla.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:6f1e https://zoombangla.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:6f1e https://zoombangla.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:6e1e https://zoombangla.com 0 percent in 0 bytes
+miss 2606:4700:20::6819:6f1e https://zoombangla.com 0 percent in 0 bytes
+miss 47.88.158.20 https://zoombangla.com -48 percent in 215 bytes
+match 104.25.110.30 https://zoombangla.com 100 percent in 500 bytes
+miss 104.25.110.30 https://zoombangla.com 0 percent in 0 bytes
+miss 104.25.110.30 https://zoombangla.com 0 percent in 0 bytes
+miss 104.25.110.30 https://zoombangla.com 0 percent in 0 bytes
+miss 67.43.224.82 https://zoombangla.com 0 percent in 0 bytes
+miss 104.25.111.30 https://zoombangla.com 0 percent in 0 bytes
+miss 104.25.111.30 https://zoombangla.com 0 percent in 0 bytes
+miss 104.25.111.30 https://zoombangla.com 0 percent in 0 bytes
+miss 104.25.111.30 https://zoombangla.com 0 percent in 0 bytes

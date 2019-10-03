@@ -1,0 +1,8 @@
+match 104.23.128.76 https://omegle.com 100 percent in 500 bytes
+match 104.23.129.76 https://omegle.com 100 percent in 500 bytes
+match 104.23.128.76 https://omegle.com 100 percent in 500 bytes
+match 104.23.128.76 https://omegle.com 100 percent in 500 bytes
+match 104.23.128.76 https://omegle.com 100 percent in 500 bytes
+match 104.23.129.76 https://omegle.com 100 percent in 500 bytes
+match 104.23.129.76 https://omegle.com 100 percent in 500 bytes
+match 104.23.129.76 https://omegle.com 100 percent in 500 bytes

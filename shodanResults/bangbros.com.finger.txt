@@ -1,0 +1,15 @@
+miss 2400:cb00:2048:1::6814:8382 https://bangbros.com 0 percent in 0 bytes
+miss 2400:cb00:2048:1::6814:8382 https://bangbros.com 0 percent in 0 bytes
+miss 2400:cb00:2048:1::6814:8382 https://bangbros.com 0 percent in 0 bytes
+match 104.20.132.130 https://bangbros.com 100 percent in 500 bytes
+match 104.20.131.130 https://bangbros.com 100 percent in 500 bytes
+match 104.20.131.130 https://bangbros.com 100 percent in 500 bytes
+match 104.20.132.130 https://bangbros.com 100 percent in 500 bytes
+match 104.20.131.130 https://bangbros.com 100 percent in 500 bytes
+match 104.20.132.130 https://bangbros.com 100 percent in 500 bytes
+match 104.20.132.130 https://bangbros.com 100 percent in 500 bytes
+miss 76.9.20.1 https://bangbros.com 0 percent in 0 bytes
+miss 64.188.57.215 https://bangbros.com -53 percent in 500 bytes
+miss 64.188.57.216 https://bangbros.com -53 percent in 500 bytes
+miss 64.188.57.217 https://bangbros.com 4 percent in 500 bytes
+miss 64.188.57.218 https://bangbros.com -53 percent in 500 bytes

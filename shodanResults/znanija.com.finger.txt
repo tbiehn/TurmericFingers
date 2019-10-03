@@ -1,0 +1,11 @@
+miss 18.203.212.126 https://znanija.com 0 percent in 0 bytes
+match 104.18.186.11 https://znanija.com 100 percent in 500 bytes
+match 104.18.187.11 https://znanija.com 100 percent in 500 bytes
+match 104.18.186.11 https://znanija.com 100 percent in 500 bytes
+match 104.18.186.11 https://znanija.com 100 percent in 500 bytes
+match 104.18.187.11 https://znanija.com 100 percent in 500 bytes
+miss 54.194.54.17 https://znanija.com -50 percent in 72 bytes
+match 104.18.187.11 https://znanija.com 100 percent in 500 bytes
+match 104.18.187.11 https://znanija.com 100 percent in 500 bytes
+match 52.213.81.120 https://znanija.com 99 percent in 500 bytes
+match 108.128.253.213 https://znanija.com 99 percent in 500 bytes

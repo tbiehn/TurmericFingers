@@ -1,0 +1,4 @@
+miss 2804:49c:3101:405:ffff:ffff:ffff:22 https://esporte.uol.com.br 0 percent in 0 bytes
+miss 2804:49c:3102:405:ffff:ffff:ffff:6 https://esporte.uol.com.br 0 percent in 0 bytes
+miss 200.147.36.83 https://esporte.uol.com.br 7 percent in 500 bytes
+miss 200.147.4.75 https://esporte.uol.com.br 7 percent in 500 bytes

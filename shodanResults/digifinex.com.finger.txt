@@ -1,0 +1,11 @@
+miss 2400:cb00:2048:1::6814:c64a https://digifinex.com 0 percent in 0 bytes
+miss 2400:cb00:2048:1::6814:c64a https://digifinex.com 0 percent in 0 bytes
+miss 2400:cb00:2048:1::6814:c74a https://digifinex.com 0 percent in 0 bytes
+miss 47.52.80.113 https://digifinex.com -77 percent in 18 bytes
+match 104.20.198.74 https://digifinex.com 100 percent in 500 bytes
+match 104.20.199.74 https://digifinex.com 100 percent in 500 bytes
+match 104.20.198.74 https://digifinex.com 100 percent in 500 bytes
+match 104.20.199.74 https://digifinex.com 100 percent in 500 bytes
+match 104.20.198.74 https://digifinex.com 100 percent in 500 bytes
+match 104.20.198.74 https://digifinex.com 100 percent in 500 bytes
+match 104.20.199.74 https://digifinex.com 100 percent in 500 bytes
